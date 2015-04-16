@@ -1,0 +1,6 @@
+word=input("Enter your sentence with 2 words\n")
+print(word)
+a=word.split(" ")
+print(word)
+print(a[0])
+print(a[1])
